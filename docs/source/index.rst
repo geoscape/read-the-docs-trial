@@ -1,10 +1,9 @@
+=====
 G-NAF
-===================================
+=====
 
 .. include:: disclaimer.rst
 
-Contents
---------
 
 .. toctree::
    :caption: Contents
@@ -18,4 +17,5 @@ Contents
    change_notification
    issues
    future_considerations
+   summary_statistics
    annex
