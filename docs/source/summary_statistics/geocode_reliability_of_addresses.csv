@@ -1,0 +1,9 @@
+﻿Reliability ,No of Addresses ,Percentage ,Change since Feb 2023 
+1 (GPS derived address level) ,- ,0.00% ,- 
+2 (Within address site boundary) ,"14,968,211 ",96.66% ,"48,874 "
+3 (gap geocoded) ,"146,413 ",0.95% ,"(3,120) "
+4 (street level) ,"365,265 ",2.36% ,"(1,052) "
+5 (locality level) ,"5,134 ",0.03% ,(179) 
+6 (topo level) ,- ,0.00% ,- 
+No geocode ,- ,0.00% ,- 
+Total ,"15,485,023 ",100% ,"44,523 "
