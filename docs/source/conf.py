@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'G-NAF'
+copyright = '2023, Geoscape'
+author = 'Geoscape'
 
-release = '0.1'
-version = '0.1.0'
+release = 'May'
+version = '2023'
 
 # -- General configuration
 
@@ -30,6 +30,12 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+
+# -- Option for PDF ouput
+latex_elements = { 'papersize' : 'a4paper' ,
+                'preamble': r'''\usepackage{lscape}''',
+                   'extrapackages' :'''\\usepackage {titlesec} \\titleformat {\\chapter}[display] {\\normalfont\\bfseries}{} {0 pt}{\\Huge}''' }
+
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
