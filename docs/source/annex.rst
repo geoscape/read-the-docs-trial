@@ -8,11 +8,48 @@ The following tables show the changes that occur to principal only addresses bet
 Victoria
 --------
 
-.. csv-table:: Address Summary - Vic
-   :file: annex/address_summary_vic.csv
+.. csv-table:: Address Summary - Victoria
+    :header-rows: 2
+    :file: annex/address_summary_vic.csv
 
-.. csv-table:: Confidence -  Vic
-   :file: annex/confidence_vic.csv
+.. csv-table:: Confidence - Victoria
+    :header-rows: 2
+    :file: annex/confidence_vic.csv
 
-.. csv-table:: Address Summary Vic
-   :file: annex/level_geocoded_vic.csv
+.. csv-table:: Address Summary -  Victoria
+    :header-rows: 2
+    :file: annex/level_geocoded_vic.csv
+
+---------------
+New South Wales
+---------------
+
+---------------
+South Australia
+---------------
+
+--------
+Tasmania
+--------
+
+-----------------
+Western Australia
+-----------------
+
+----------------------------
+Australian Capital Territory
+----------------------------
+
+----------
+Queensland
+----------
+
+----------------------------
+Australian Capital Territory
+----------------------------
+
+-----------------
+Other Territories
+-----------------
+
+
