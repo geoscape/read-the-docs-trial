@@ -3,10 +3,6 @@ G-NAF
 
 .. include:: disclaimer.rst
 
-.. raw:: latex
-
-    \newpage
-
 Contents
 --------
 
